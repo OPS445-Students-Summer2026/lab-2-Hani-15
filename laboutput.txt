@@ -1,0 +1,12 @@
+OPS445 Lab Report - System Information for running ./CheckLab2.py
+=================================================================
+    User login name: hali154
+    Git Email: hali154@myseneca.ca
+    Linux system name: debhost
+    Python executable: /usr/bin/python3
+    Python version:  3.11.2 (main, Apr 28 2025, 14:11:48) [GCC 12.2.0]
+    VS Code version:  1.120.0 646
+    OS Platform: linux
+    Working Directory: /home/hali154/ops445/lab2/lab-2-Hani-15
+    Start at: Mon Jun  1 04:48:36 2026
+=================================================================
